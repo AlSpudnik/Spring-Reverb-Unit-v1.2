@@ -37,11 +37,11 @@ R21 = 470 Ohm (0,25W)
 
 <b>Potentiometers</b>
 <br />
-R5 = B500k
+R5 = B500k (linear)
 <br />
-R18 = B50k
+R18 = B50k  (linear)
 <br />
-R19 = B250k (with Push Pull switch)
+R19 = B250k (linear with push pull switch)
 
 
 <b>Capacitors</b>
