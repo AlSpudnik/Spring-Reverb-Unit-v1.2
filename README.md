@@ -3,4 +3,4 @@
 
 [![Demo Sounds](https://img.shields.io/badge/Demo_Sounds-youtube-red.svg )](https://www.youtube.com/watch?v=NOCHVADDLt0)
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate01.jpg" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Spring-Reverb-Unit/main/foto/rev32.JPG" width="400">
