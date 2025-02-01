@@ -6,7 +6,6 @@
 <img src="https://raw.githubusercontent.com/AlSpudnik/Spring-Reverb-Unit/main/photo/rev32.JPG" width="400">
 
 ### Part List:
-<br />
 <b>Resistors</b>
 <br />
 R1 - 10k
