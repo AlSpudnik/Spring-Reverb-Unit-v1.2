@@ -7,6 +7,7 @@
 
 ### Part List:
 <b>Resistors</b>
+<br />
 R1 = 10k (0,5W)
 <br />
 R2, R15 = 1 MOhm (0,25W)
