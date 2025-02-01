@@ -32,8 +32,7 @@ R17 - 1,5k
 <br />
 R21 - 470 Ohm
  
-<br />
-<br />
+
 <b>Potentiometers</b>
 <br />
 R5 - B500k
@@ -42,8 +41,7 @@ R18 - B50k
 <br />
 R19 - B250k (with Push Pull switch)
 
-<br />
-<br />
+
 <b>Capacitors</b>
 <br />
 C1 - 200nF 63V (film)
@@ -72,8 +70,7 @@ C13, C14, C15 - 40µF 400V (electro)
 <br />
 C16 - 1nF 250V (film)
 
-<br />
-<br />
+
 <b>Diodes</b>
 <br />
 D1 - Bridge Rectifier KBP307
@@ -82,8 +79,7 @@ D2 - 1N4007 (or another)
 <br />
 D3 - LED
 
-<br />
-<br />
+
 <b>Tubes</b>
 <br />
 V1 - 6F5P
