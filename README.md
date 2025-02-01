@@ -3,4 +3,4 @@
 
 [![Demo Sounds](https://img.shields.io/badge/Demo_Sounds-youtube-red.svg )](https://www.youtube.com/watch?v=NOCHVADDLt0)
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Spring-Reverb-Unit/main/foto/rev32.JPG" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Spring-Reverb-Unit/main/photo/rev32.JPG" width="400">
