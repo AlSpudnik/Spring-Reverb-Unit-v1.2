@@ -36,7 +36,6 @@ R20 = 2,7k (1W)
 <br />
 R21 = 470 Ohm (0,25W)
 
-
 <b>Potentiometers</b>
 <br />
 R5 = B500k (linear)
@@ -44,7 +43,6 @@ R5 = B500k (linear)
 R18 = B50k  (linear)
 <br />
 R19 = B250k (linear with push pull switch)
-
 
 <b>Capacitors</b>
 <br />
@@ -74,7 +72,6 @@ C13, C14, C15 = 40µF 400V (electro)
 <br />
 C16 = 1nF 250V (film)
 
-
 <b>Diodes</b>
 <br />
 D1 = Bridge Rectifier KBP307
@@ -83,18 +80,23 @@ D2 = 1N4007 (or another)
 <br />
 D3 = LED
 
-
 <b>Tubes</b>
 <br />
 V1 - 6F5P
 <br />
 V2 - 6N2P
 
+<b>Reverb Pan</b>
+<br />
+4AB3C1C or 4AB3C1B
+<br />
+Input transducer: impedanсe = 8 Ohm, DC resistance = 0,7 Ohm.
+<br />
+Output transducer: impedanсe = 2250 Ohm, DC resistance = 200 Ohm.
 
 <b>Power Switch Toggle</b>
 <br />
 SPST or another high voltage toggle
-
 
 <b>Transformers</b>
 <br />
