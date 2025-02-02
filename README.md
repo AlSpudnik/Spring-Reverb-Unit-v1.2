@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/Spring-Reverb-Unit/main/photo/rev32.JPG" width="400">
 
-### Part List:
+### Parts List:
 <b>Resistors</b>
 <br />
 R1 = 10k (0,25W)
@@ -96,13 +96,13 @@ Output transducer: impedanсe = 2250 Ohm, DC resistance = 200 Ohm.
 
 <b>Power Switch Toggle</b>
 <br />
-SPST or another high voltage toggle
+SPST or another high voltage toggle.
 
 <b>Transformers</b>
 <br />
 Power Transformer: 25W. Secondary winding = 235v AC, 42mA. Filament winding = 6.6v AC, 1.2A.
 <br />
-Output Transformer: Hammond 1750AX or any other approximate analogue
+Output Transformer: Hammond 1750AX or any other approximate analogue.
 
 <b>Filter Choke</b>
 <br />
