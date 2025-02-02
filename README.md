@@ -26,7 +26,9 @@ R9 = 100 Ohm (0,5W)
 <br />
 R10 = 910 Ohm (2W)
 <br />
-R11, R12, R14 = 2,2 MOhm (0,5W)
+R11, R12 = 2,2 MOhm (0,5W)
+<br />
+R14 =  15 Ohm (Res Thick Film Array 0.25W)
 <br />
 R17 = 1,5k (0,5W)
 <br />
