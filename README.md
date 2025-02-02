@@ -89,3 +89,19 @@ D3 = LED
 V1 - 6F5P
 <br />
 V2 - 6N2P
+
+
+<b>Power Switch Toggle</b>
+<br />
+SPST or another high voltage toggle
+
+
+<b>Transformers</b>
+<br />
+Power Transformer: 25W. Secondary winding = 235v AC, 42mA. Filament winding = 6.6v AC, 1.2A.
+<br />
+Output Transformer: Hammond 1750AX or any other approximate analogue
+
+<b>Filter Choke</b>
+<br />
+Inductance = 9.3 Henry, 40mA.
