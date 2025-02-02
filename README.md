@@ -48,7 +48,7 @@ R19 = B250k (linear with push pull switch)
 <br />
 C1 = 200nF 63V (film or polarized electro)
 <br />
-C2 = 1nF 500V (film)
+C2 = 1nF 400V (film)
 <br />
 C3 = 62pF 250V (film or ceramic)
 <br />
