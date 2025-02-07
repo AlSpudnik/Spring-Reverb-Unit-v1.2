@@ -38,7 +38,7 @@ R21 = 470 Ohm (0,25W)
 
 <b>Potentiometers</b>
 <br />
-R5 = B500k (linear)
+R5 = A500k (logarithmic)
 <br />
 R18 = B50k  (linear)
 <br />
