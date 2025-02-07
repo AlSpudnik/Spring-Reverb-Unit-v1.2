@@ -85,6 +85,8 @@ D3 = LED
 V1 - 6F5P
 <br />
 V2 - 6N2P
+<br />
+Two nine-pin tube sockets
 
 <b>Reverb Pan</b>
 <br />
