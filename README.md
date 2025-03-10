@@ -18,7 +18,7 @@ R4 = 2,7k (0,5W)
 <br />
 R6 = 220k* (0,25W)
 <br />
-R7 = 220k (0,25W)
+R7, R22  = 220k (0,25W)
 <br />
 R8 = 4,7k (0,25W)
 <br />
@@ -35,8 +35,6 @@ R17 = 1,5k (0,5W)
 R20 = 2,7k (1W) 
 <br />
 R21 = 470 Ohm (0,25W)
-<br />
-R22 = 1,5 MOhm (0,25W)
 
 <b>Potentiometers</b>
 <br />
@@ -72,7 +70,7 @@ C12 = 470nF 630V (film)
 <br />
 C13, C14, C15 = 40µF 400V (electro)
 <br />
-C16 = 560pF 50V (film or ceramic)
+C16 = 1nF 250V (film)
 
 <b>Diodes</b>
 <br />
